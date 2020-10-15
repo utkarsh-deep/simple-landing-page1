@@ -1,1 +1,2 @@
-# simple-landing-page1
+Simple Landing Page
+Includes an animated NavBar with contact links.
